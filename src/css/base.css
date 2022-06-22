@@ -1,3 +1,10 @@
+:root {
+    /* #1d9bf0 */
+    --brand-primary: #44bfaa;
+    --brand-dark: #3c6860;
+    /* --brand-primary: #7b44bf; */
+}
+
 * {
     padding: 0;
     margin: 0;
